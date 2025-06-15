@@ -17,10 +17,12 @@ Machine learning–guided optimization of ultrasound-assisted extraction paramet
 
 ## Dependencies
 
-- `numpy` 
-- `pandas`
-- `scikit-learn` 
-- `pyDOE` 
+ - `numpy`
+ - `pandas`
+ - `pyDOE`
+ - `scikit-learn`
+ - `matplotlib`
+ - `seaborn`
 
 ```bash
 pip install -r requirements.txt

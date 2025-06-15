@@ -1,5 +1,6 @@
 numpy
 pandas
-scikit-learn
 pyDOE
+scikit-learn
+matplotlib
 seaborn
