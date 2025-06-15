@@ -1,0 +1,11 @@
+{
+  "parameters": {
+    "Enzyme (%)": [2, 6],
+    "Temp (°C)": [35, 70],
+    "Time (min)": [20, 60],
+    "Power (W)": [150, 350],
+    "test var": [10, 50]
+  },
+  "total_samples": 100,
+  "pretest_size": 30
+}
